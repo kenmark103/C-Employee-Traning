@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFDatabase", "EFDatabase\EFDatabase.csproj", "{B7C5388A-1C90-49FF-AE0D-AFB248A2D091}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBModules.SQL", "DBModules.SQL\DBModules.SQL.csproj", "{DAB0D275-6EC3-44BF-A38F-3AAADB91B838}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7C5388A-1C90-49FF-AE0D-AFB248A2D091}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7C5388A-1C90-49FF-AE0D-AFB248A2D091}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7C5388A-1C90-49FF-AE0D-AFB248A2D091}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7C5388A-1C90-49FF-AE0D-AFB248A2D091}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAB0D275-6EC3-44BF-A38F-3AAADB91B838}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAB0D275-6EC3-44BF-A38F-3AAADB91B838}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAB0D275-6EC3-44BF-A38F-3AAADB91B838}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAB0D275-6EC3-44BF-A38F-3AAADB91B838}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {595D6A6A-7B17-4003-98C2-A6821B358D9E}
+	EndGlobalSection
+EndGlobal
